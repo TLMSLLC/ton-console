@@ -31,7 +31,7 @@
     "@loadable/component": "^5.15.3",
     "@react-hook/resize-observer": "^1.2.6",
     "@ton-api/client": "^0.4.0",
-    "@ton/core": "^0.59.0",
+    "@ton/core": "^0.63.1",
     "@ton/ton": "^15.1.0",
     "@tonconnect/ui-react": "^2.2.0-beta.0",
     "@uiw/codemirror-theme-dracula": "^4.21.18",
