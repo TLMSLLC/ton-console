@@ -61,7 +61,7 @@
     "react-window": "^1.8.9",
     "react-window-infinite-loader": "^1.0.9",
     "recharts": "^2.5.0",
-    "ton-core": "^0.49.1"
+    "ton-core": "^0.53.0"
   },
   "devDependencies": {
     "@chakra-ui/styled-system": "^2.7.0",
